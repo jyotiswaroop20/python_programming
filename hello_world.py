@@ -1,0 +1,7 @@
+print("Hello, world!")
+print("My name is Aditya")
+print("I am learning Python programming.")
+print("This is a simple Python script.")
+print("I hope to build amazing projects with Python!")
+print("Thank you for reading my script.")
+print("goodbye!")
