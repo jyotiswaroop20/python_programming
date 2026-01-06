@@ -15,7 +15,10 @@ print("Converted number to string:", number_string)
 
 #Using the ord() function to get the Unicode code point of a character
 char = 'A'
+char1 = 'a'
 unicode_value = ord(char)
+unicode_value1 = ord(char1)
+print("Unicode value of", char1, "is:", unicode_value1)
 print("Unicode value of", char, "is:", unicode_value)
 
 #Using the chr() function to get the character from a Unicode code point
