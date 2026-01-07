@@ -75,5 +75,12 @@ print("Copied List:", copied_list)
 my_list.clear()
 print("After Clearing the List:", my_list)
 
+#accepting list input from user
+user_input = input("Enter numbers separated by spaces: ")
+user_list = [int(x) for x in user_input.split()]
+print("User Input List:", user_list)
+nested_list = [1, 2, [3, 4], 5]
+print("Nested List:", nested_list)
+
 
 
