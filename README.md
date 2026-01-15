@@ -33,23 +33,6 @@ This repo will be updated regularly as I continue learning.
 
 ---
 
-## 📂 Folder Structure (Planned)
-
-```
-python-practice/
-│── basics/
-│── operators/
-│── conditions-loops/
-│── functions/
-│── data-structures/
-│── file-handling/
-│── exception-handling/
-│── mini-projects/
-│── README.md
-```
-
----
-
 ## 🛠 Tools & Environment
 
 * Language: **Python 3.x**
